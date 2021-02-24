@@ -10,10 +10,13 @@
     "lint": "eslint ."
   },
   "dependencies": {
+    "axios": "^0.21.1",
     "react": "16.13.1",
     "react-art": "^17.0.1",
     "react-dom": "^17.0.1",
     "react-native": "0.63.4",
+    "react-native-tts": "^3.3.0",
+    "react-native-voice": "^0.3.0",
     "react-native-web": "^0.15.0",
     "react-router-dom": "^5.2.0",
     "react-router-native": "^5.2.0",
